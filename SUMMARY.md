@@ -10,5 +10,5 @@
 
 ***
 
-* [Report an issue](https://github.com/Aptivi/LocaleStation/issues/new)
-* [Source code](https://github.com/Aptivi/LocaleStation)
+* [Report an issue](https://gitlab.com/aptivi/main/LocaleStation/-/issues)
+* [Source code](https://gitlab.com/aptivi/main/LocaleStation)
